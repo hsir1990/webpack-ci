@@ -1,0 +1,45 @@
+<%@ page pageEncoding="UTF-8"%>
+<ul class="side_menu">
+    <li><h2><em class="money"></em>账户管理</h2><ul><li><a href="zh85.html">注册账户</a></li><li><a href="zh86.html">登录账户</a></li><li><a href="zh87.html">账户信息维护</a></li></ul><div class="spbot"></div></li>
+    <li>
+        <h2><em class="reader"></em>我是读者</h2>
+        <ul>
+            <li><a href="zh88.html">查找作品</a></li>
+            <li><a href="zh89.html">阅读作品</a></li>
+            <li><a href="zh90.html">我的书架</a></li>
+            <li><a href="zh91.html">我的足迹</a></li>
+            <li><a href="zh92.html">我的消息</a></li>
+            <li><a href="zh93.html">其他功能</a></li>
+        </ul>
+        <div class="spbot"></div>
+    </li>
+    <li>
+        <h2><em class="writer"></em>我是作者</h2>
+        <ul>
+            <li><a href="zh97.html">申请作者</a></li>
+            <li><a href="zh98.html">添加作品</a></li>
+            <li><a href="zh99.html">管理作品</a></li>
+            <li><a href="zh100.html">推荐/签约</a></li>
+            <li><a href="zh114.html">订阅查询</a></li>
+            <li><a href="zh115.html">书评管理</a></li>
+            <li><a href="zh101.html">账户安全</a></li>
+            <li><a href="zh102.html">收入查询</a></li>
+        </ul>
+        <div class="spbot"></div>
+    </li>
+    <li><h2><em class="charge"></em>充值与消费</h2><ul><li><a href="zh94.html">账户充值</a></li><li><a href="zh116.html" style=" color:#3d8902;">充值指南</a></li><li><a href="zh95.html">作品订阅</a></li><li><a href="zh96.html">账户查询</a></li></ul><div class="spbot"></div></li>
+    <li><h2><em class="zhzz"></em>纵横中文网</h2><ul><li><a href="zh103.html">纵横主站</a></li><li><a href="zh104.html">花语女生</a></li><li><a href="zh105.html">纵横动漫</a></li></ul><div class="spbot"></div></li>
+<!--     <li> -->
+<!--         <h2><em class="zht"></em>纵横聊聊</h2> -->
+<!--         <ul> -->
+<!--             <li><a href="zh106.html">登录聊聊</a></li> -->
+<!--             <li><a href="zh107.html">账户设置</a></li> -->
+<!--             <li><a href="zh108.html">发布吐槽</a></li> -->
+<!--             <li><a href="zh109.html">转发</a></li> -->
+<!--             <li><a href="zh110.html">评论</a></li> -->
+<!--             <li><a href="zh111.html">@某人</a></li> -->
+<!--         </ul> -->
+<!--         <div class="spbot"></div> -->
+<!--     </li> -->
+    <li><h2><em class="zhxx"></em>协议查询</h2><ul><li><a href="zh112.html">用户注册协议</a></li><li><a href="zh113.html">付费用户协议</a></li></ul><div class="spbot"></div></li>
+</ul>
