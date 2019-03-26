@@ -44,14 +44,14 @@ function component() {
   document.body.appendChild(component());
 
 
-  // 热替换
-  if(module.hot){
-    console.log('HOT 替换----');
+  // // 热替换
+  // if(module.hot){
+  //   console.log('HOT 替换----');
 
-    module.hot.accept('./hot.js', function(){
-        console.log('HOT 替换');
+  //   module.hot.accept('./hot.js', function(){
+  //       console.log('HOT 替换');
 
         
-        hotFun();
-    })
-  }
+  //       hotFun();
+    // })
+  // }
